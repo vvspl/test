@@ -1,0 +1,553 @@
+{
+  "clients": [
+    {
+      "customerId": "7493561",
+      "status": "GREEN",
+      "partyType": "LE",
+      "segmentId": "S",
+      "country": "804",
+      "serviceType": "STANDART_BRANCH",
+      "verifyCode": "BODILY",
+      "verifyDate": "2023-12-29",
+      "active": true,
+      "bmClnClass": "80",
+      "bmClnType": "09",
+      "bmClnVid": "135",
+      "branch": "1206",
+      "residency": "1",
+      "dateLastIdent": "2023-12-29",
+      "dateNextIdent": "2026-12-29",
+      "aml": "2",
+      "subSegmentName": "(3) Business Premium",
+      "party": {
+        "fullName": "ТОВАРИСТВО З ОБМЕЖЕНОЮ ВІДПОВІДАЛЬНІСТЮ \"ЕЛВАТЕХ\"",
+        "shortName": "ТОВ \"ЕЛВАТЕХ\"",
+        "transliteratedNames": {
+          "fullName": "TOV\"ELVATEKH\"",
+          "shortName": "TOV\"ELVATEKH\""
+        },
+        "regCode": "13671189",
+        "communicationChannels": [
+          {
+            "id": "27898853",
+            "email": "info@elvatech.com",
+            "activeNotificationChannel": "EMAIL",
+            "type": "EMAIL",
+            "purpose": "MAIN_BUSINESS",
+            "status": "VALID"
+          },
+          {
+            "id": "27898854",
+            "phone": "0933335472",
+            "activeNotificationChannel": "CALL",
+            "type": "MOBILE_PHONE",
+            "description": "ФІЛІПОВ ОЛЕКСАНДР СЕРГІЙОВИЧ",
+            "purpose": "MAIN_BUSINESS",
+            "status": "VALID"
+          },
+          {
+            "id": "27898856",
+            "phone": "0503100960",
+            "activeNotificationChannel": "CALL",
+            "type": "MOBILE_PHONE",
+            "description": "МАРТИНЮК ТЕТЯНА ОЛЕКСАНДРІВНА",
+            "purpose": "MAIN_PRIVATE",
+            "status": "VALID"
+          },
+          {
+            "id": "27898857",
+            "phone": "0444120681",
+            "activeNotificationChannel": "FAX",
+            "type": "DOMESTIC_PHONE",
+            "purpose": "OTHER_BUSINESS",
+            "status": "VALID"
+          },
+          {
+            "id": "39191486",
+            "phone": "0445991143",
+            "activeNotificationChannel": "CALL",
+            "type": "MOBILE_PHONE",
+            "purpose": "ANTI_FRAUD",
+            "status": "VALID"
+          },
+          {
+            "id": "41812501",
+            "phone": "0984198676",
+            "activeNotificationChannel": "CALL",
+            "type": "MOBILE_PHONE",
+            "description": "КРУГЛЯКОВСЬКА Т.В.",
+            "purpose": "FINANCE",
+            "status": "VALID"
+          }
+        ]
+      },
+      "documents": [],
+      "addresses": [
+        {
+          "addressType": "LEGAL",
+          "country": "804",
+          "regionId": "2114",
+          "areaId": "33894",
+          "cityCode": "1606503",
+          "city": "Київ",
+          "cityType": "М."
+        },
+        {
+          "addressType": "POST",
+          "country": "804",
+          "regionId": "2114",
+          "areaId": "33894",
+          "cityCode": "1606503",
+          "city": "Київ",
+          "cityType": "М."
+        },
+        {
+          "addressType": "FACT",
+          "country": "804",
+          "regionId": "2114",
+          "areaId": "33894",
+          "cityCode": "1606503",
+          "city": "КИЇВ",
+          "cityType": "М."
+        }
+      ],
+      "links": [
+        {
+          "customerId": "8067963",
+          "partyType": "LE",
+          "system": "ORION"
+        },
+        {
+          "customerId": "22067786",
+          "partyType": "LE",
+          "system": "VIC"
+        },
+        {
+          "customerId": "0574663",
+          "partyType": "LE",
+          "system": "BM"
+        },
+        {
+          "customerId": "33537",
+          "partyType": "LE",
+          "system": "G-REC"
+        },
+        {
+          "customerId": "cd3a633e-78c4-45e2-9e3a-769c6e4b97b0",
+          "partyType": "LE",
+          "system": "LDBO"
+        },
+        {
+          "customerId": "5f5135a4-8132-4a97-b75e-dc109388c8f0",
+          "partyType": "LE",
+          "system": "aCRM"
+        },
+        {
+          "customerId": "0b0011ee8593b63b",
+          "system": "DMS"
+        },
+        {
+          "customerId": "424",
+          "partyType": "LE",
+          "system": "FXSS"
+        },
+        {
+          "customerId": "9875035",
+          "partyType": "LE",
+          "system": "IS-CARD"
+        },
+        {
+          "customerId": "13021832",
+          "partyType": "LE",
+          "system": "R_INFO"
+        }
+      ],
+      "managers": [
+        {
+          "relationshipManagerEmail": "ganna.zakrevska@raiffeisen.ua",
+          "isActive": "true",
+          "relationshipManagerId": "IUAD10Z9",
+          "roleId": "3"
+        },
+        {
+          "relationshipManagerEmail": "maryna.pavlenko@raiffeisen.ua",
+          "isActive": "true",
+          "relationshipManagerId": "IUAD1IO5",
+          "roleId": "2"
+        },
+        {
+          "relationshipManagerEmail": "iryna.solomina@raiffeisen.ua",
+          "isActive": "true",
+          "relationshipManagerId": "IUAD018L",
+          "roleId": "2"
+        }
+      ]
+    },
+    {
+      "customerId": "7493562",
+      "status": "GREEN",
+      "partyType": "LE",
+      "segmentId": "S",
+      "country": "804",
+      "serviceType": "STANDART_BRANCH",
+      "verifyCode": "BODILY",
+      "verifyDate": "2023-12-29",
+      "active": true,
+      "bmClnClass": "80",
+      "bmClnType": "09",
+      "bmClnVid": "135",
+      "branch": "1206",
+      "residency": "1",
+      "dateLastIdent": "2023-12-29",
+      "dateNextIdent": "2026-12-29",
+      "aml": "2",
+      "subSegmentName": "(3) Business Premium",
+      "party": {
+        "fullName": "ТОВАРИСТВО З ОБМЕЖЕНОЮ ВІДПОВІДАЛЬНІСТЮ \"ЕЛВАТЕХ\"",
+        "shortName": "ТОВ \"ЕЛВАТЕХ\"",
+        "transliteratedNames": {
+          "fullName": "TOV\"ELVATEKH\"",
+          "shortName": "TOV\"ELVATEKH\""
+        },
+        "regCode": "13671189",
+        "communicationChannels": [
+          {
+            "id": "27898853",
+            "email": "info@elvatech.com",
+            "activeNotificationChannel": "EMAIL",
+            "type": "EMAIL",
+            "purpose": "MAIN_BUSINESS",
+            "status": "VALID"
+          },
+          {
+            "id": "27898854",
+            "phone": "0933335472",
+            "activeNotificationChannel": "CALL",
+            "type": "MOBILE_PHONE",
+            "description": "ФІЛІПОВ ОЛЕКСАНДР СЕРГІЙОВИЧ",
+            "purpose": "MAIN_BUSINESS",
+            "status": "VALID"
+          },
+          {
+            "id": "27898856",
+            "phone": "0503100960",
+            "activeNotificationChannel": "CALL",
+            "type": "MOBILE_PHONE",
+            "description": "МАРТИНЮК ТЕТЯНА ОЛЕКСАНДРІВНА",
+            "purpose": "MAIN_PRIVATE",
+            "status": "VALID"
+          },
+          {
+            "id": "27898857",
+            "phone": "0444120681",
+            "activeNotificationChannel": "FAX",
+            "type": "DOMESTIC_PHONE",
+            "purpose": "OTHER_BUSINESS",
+            "status": "VALID"
+          },
+          {
+            "id": "39191486",
+            "phone": "0445991143",
+            "activeNotificationChannel": "CALL",
+            "type": "MOBILE_PHONE",
+            "purpose": "ANTI_FRAUD",
+            "status": "VALID"
+          },
+          {
+            "id": "41812502",
+            "phone": "0984198671",
+            "activeNotificationChannel": "CALL",
+            "type": "MOBILE_PHONE",
+            "description": "КРУГЛЯКОВСЬКА Т.В.",
+            "purpose": "FINANCE",
+            "status": "VALID"
+          }
+        ]
+      },
+      "documents": [],
+      "addresses": [
+        {
+          "addressType": "LEGAL",
+          "country": "804",
+          "regionId": "2114",
+          "areaId": "33894",
+          "cityCode": "1606503",
+          "city": "Київ",
+          "cityType": "М."
+        },
+        {
+          "addressType": "POST",
+          "country": "804",
+          "regionId": "2114",
+          "areaId": "33894",
+          "cityCode": "1606503",
+          "city": "Київ",
+          "cityType": "М."
+        },
+        {
+          "addressType": "FACT",
+          "country": "804",
+          "regionId": "2114",
+          "areaId": "33894",
+          "cityCode": "1606503",
+          "city": "КИЇВ",
+          "cityType": "М."
+        }
+      ],
+      "links": [
+        {
+          "customerId": "8067963",
+          "partyType": "LE",
+          "system": "ORION"
+        },
+        {
+          "customerId": "22067786",
+          "partyType": "LE",
+          "system": "VIC"
+        },
+        {
+          "customerId": "0574663",
+          "partyType": "LE",
+          "system": "BM"
+        },
+        {
+          "customerId": "33537",
+          "partyType": "LE",
+          "system": "G-REC"
+        },
+        {
+          "customerId": "cd3a633e-78c4-45e2-9e3a-769c6e4b97b0",
+          "partyType": "LE",
+          "system": "LDBO"
+        },
+        {
+          "customerId": "5f5135a4-8132-4a97-b75e-dc109388c8f0",
+          "partyType": "LE",
+          "system": "aCRM"
+        },
+        {
+          "customerId": "0b0011ee8593b63b",
+          "system": "DMS"
+        },
+        {
+          "customerId": "424",
+          "partyType": "LE",
+          "system": "FXSS"
+        },
+        {
+          "customerId": "9875035",
+          "partyType": "LE",
+          "system": "IS-CARD"
+        },
+        {
+          "customerId": "13021832",
+          "partyType": "LE",
+          "system": "R_INFO"
+        }
+      ],
+      "managers": [
+        {
+          "relationshipManagerEmail": "ganna.zakrevska@raiffeisen.ua",
+          "isActive": "true",
+          "relationshipManagerId": "IUAD10Z9",
+          "roleId": "3"
+        },
+        {
+          "relationshipManagerEmail": "maryna.pavlenko@raiffeisen.ua",
+          "isActive": "true",
+          "relationshipManagerId": "IUAD1IO5",
+          "roleId": "2"
+        },
+        {
+          "relationshipManagerEmail": "iryna.solomina@raiffeisen.ua",
+          "isActive": "true",
+          "relationshipManagerId": "IUAD018L",
+          "roleId": "2"
+        }
+      ]
+    },
+    {
+      "customerId": "7493563",
+      "status": "GREEN",
+      "partyType": "LE",
+      "segmentId": "S",
+      "country": "804",
+      "serviceType": "STANDART_BRANCH",
+      "verifyCode": "BODILY",
+      "verifyDate": "2023-12-29",
+      "active": true,
+      "bmClnClass": "80",
+      "bmClnType": "09",
+      "bmClnVid": "135",
+      "branch": "1206",
+      "residency": "1",
+      "dateLastIdent": "2023-12-29",
+      "dateNextIdent": "2026-12-29",
+      "aml": "2",
+      "subSegmentName": "(3) Business Premium",
+      "party": {
+        "fullName": "ТОВАРИСТВО З ОБМЕЖЕНОЮ ВІДПОВІДАЛЬНІСТЮ \"ЕЛВАТЕХ\"",
+        "shortName": "ТОВ \"ЕЛВАТЕХ\"",
+        "transliteratedNames": {
+          "fullName": "TOV\"ELVATEKH\"",
+          "shortName": "TOV\"ELVATEKH\""
+        },
+        "regCode": "13671189",
+        "communicationChannels": [
+          {
+            "id": "27898853",
+            "email": "info@elvatech.com",
+            "activeNotificationChannel": "EMAIL",
+            "type": "EMAIL",
+            "purpose": "MAIN_BUSINESS",
+            "status": "VALID"
+          },
+          {
+            "id": "27898854",
+            "phone": "0933335472",
+            "activeNotificationChannel": "CALL",
+            "type": "MOBILE_PHONE",
+            "description": "ФІЛІПОВ ОЛЕКСАНДР СЕРГІЙОВИЧ",
+            "purpose": "MAIN_BUSINESS",
+            "status": "VALID"
+          },
+          {
+            "id": "27898856",
+            "phone": "0503100960",
+            "activeNotificationChannel": "CALL",
+            "type": "MOBILE_PHONE",
+            "description": "МАРТИНЮК ТЕТЯНА ОЛЕКСАНДРІВНА",
+            "purpose": "MAIN_PRIVATE",
+            "status": "VALID"
+          },
+          {
+            "id": "27898857",
+            "phone": "0444120681",
+            "activeNotificationChannel": "FAX",
+            "type": "DOMESTIC_PHONE",
+            "purpose": "OTHER_BUSINESS",
+            "status": "VALID"
+          },
+          {
+            "id": "39191486",
+            "phone": "0445991143",
+            "activeNotificationChannel": "CALL",
+            "type": "MOBILE_PHONE",
+            "purpose": "ANTI_FRAUD",
+            "status": "VALID"
+          },
+          {
+            "id": "41812505",
+            "phone": "0984198672",
+            "activeNotificationChannel": "CALL",
+            "type": "MOBILE_PHONE",
+            "description": "Тест успішний Т.В.",
+            "purpose": "FINANCE",
+            "status": "VALID"
+          }
+        ]
+      },
+      "documents": [],
+      "addresses": [
+        {
+          "addressType": "LEGAL",
+          "country": "804",
+          "regionId": "2114",
+          "areaId": "33894",
+          "cityCode": "1606503",
+          "city": "Київ",
+          "cityType": "М."
+        },
+        {
+          "addressType": "POST",
+          "country": "804",
+          "regionId": "2114",
+          "areaId": "33894",
+          "cityCode": "1606503",
+          "city": "Київ",
+          "cityType": "М."
+        },
+        {
+          "addressType": "FACT",
+          "country": "804",
+          "regionId": "2114",
+          "areaId": "33894",
+          "cityCode": "1606503",
+          "city": "КИЇВ",
+          "cityType": "М."
+        }
+      ],
+      "links": [
+        {
+          "customerId": "8067963",
+          "partyType": "LE",
+          "system": "ORION"
+        },
+        {
+          "customerId": "22067786",
+          "partyType": "LE",
+          "system": "VIC"
+        },
+        {
+          "customerId": "0574663",
+          "partyType": "LE",
+          "system": "BM"
+        },
+        {
+          "customerId": "33537",
+          "partyType": "LE",
+          "system": "G-REC"
+        },
+        {
+          "customerId": "cd3a633e-78c4-45e2-9e3a-769c6e4b97b0",
+          "partyType": "LE",
+          "system": "LDBO"
+        },
+        {
+          "customerId": "5f5135a4-8132-4a97-b75e-dc109388c8f0",
+          "partyType": "LE",
+          "system": "aCRM"
+        },
+        {
+          "customerId": "0b0011ee8593b63b",
+          "system": "DMS"
+        },
+        {
+          "customerId": "424",
+          "partyType": "LE",
+          "system": "FXSS"
+        },
+        {
+          "customerId": "9875035",
+          "partyType": "LE",
+          "system": "IS-CARD"
+        },
+        {
+          "customerId": "13021832",
+          "partyType": "LE",
+          "system": "R_INFO"
+        }
+      ],
+      "managers": [
+        {
+          "relationshipManagerEmail": "ganna.zakrevska@raiffeisen.ua",
+          "isActive": "true",
+          "relationshipManagerId": "IUAD10Z9",
+          "roleId": "3"
+        },
+        {
+          "relationshipManagerEmail": "maryna.pavlenko@raiffeisen.ua",
+          "isActive": "true",
+          "relationshipManagerId": "IUAD1IO5",
+          "roleId": "2"
+        },
+        {
+          "relationshipManagerEmail": "iryna.solomina@raiffeisen.ua",
+          "isActive": "true",
+          "relationshipManagerId": "IUAD018L",
+          "roleId": "12"
+        }
+      ]
+    }
+  ]
+}

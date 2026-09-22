@@ -1,0 +1,235 @@
+{
+  "cards": [
+    {
+      "cardOwner": {
+        "customerId": "4813663"
+      },
+      "productCode": "PI_CA02_426_966_UAH",
+      "cardIssuingContract": {
+        "iban": "UA983808050000000262096714769",
+        "currencies": ["UAH"]
+      },
+      "physicalCard": {
+        "design": {
+          "code": "Visa Virtual",
+          "uri": "https://channels-web.apps.avalaunch.aval/assets/cards/e_support.png"
+        },
+        "embossingLines": {
+          "embossingLine1": "ANONYMOUS"
+        },
+        "fulfillment": {
+          "status": "UNKNOWN",
+          "extendedStatus": "UNKNOWN"
+        }
+      },
+      "cardStatus": {
+        "status": "TERMINATED"
+      },
+      "maskedPan": "414951******2310",
+      "creationDateTime": "2022-04-23T00:00:00.000000Z",
+      "lastModifiedDateTime": "2025-04-14T07:53:45.274040Z",
+      "expirationMonthYear": "04/26",
+      "expirationDateTime": "2026-04-30T20:59:59.000000Z",
+      "isPinSet": false,
+      "isInstantCard": false,
+      "customParameters": {
+        "cardProductToken": "966",
+        "cardSystem": "IS_CARD",
+        "cardInternalId": "2746460",
+        "userToken": "4813663",
+        "stateType": "online",
+        "stopCodes": [
+          {
+            "system": "IS_CARD",
+            "code": "102"
+          }
+        ],
+        "isNationalCashback": "NA"
+      },
+      "cardId": "37d23920397777d20f49e867fdbb6ccd",
+      "relatedProductId": "5932-3"
+    },
+    {
+      "cardOwner": {
+        "customerId": "4813663"
+      },
+      "productCode": "PI_CA02_421_995_UAH",
+      "cardIssuingContract": {
+        "iban": "UA323003350000002620311582934",
+        "currencies": ["UAH"]
+      },
+      "physicalCard": {
+        "design": {
+          "code": "Visa Gold ATB Inst",
+          "uri": "https://channels-web.apps.avalaunch.aval/assets/cards/ATB_414951009_01042021.png"
+        },
+        "embossingLines": {
+          "embossingLine1": "ANONYMOUS"
+        },
+        "fulfillment": {
+          "status": "UNKNOWN",
+          "extendedStatus": "UNKNOWN"
+        }
+      },
+      "cardStatus": {
+        "status": "TERMINATED",
+        "statusReason": ""
+      },
+      "maskedPan": "414951******8934",
+      "creationDateTime": "2022-08-11T00:00:00.000000Z",
+      "lastModifiedDateTime": "2026-09-09T10:48:39.428210Z",
+      "expirationMonthYear": "08/26",
+      "expirationDateTime": "2026-08-31T20:59:59.000000Z",
+      "isPinSet": true,
+      "isInstantCard": true,
+      "customParameters": {
+        "cardProductToken": "995",
+        "cardSystem": "IS_CARD",
+        "cardInternalId": "31690613",
+        "userToken": "4813663",
+        "stateType": "online",
+        "extendedState": "",
+        "stopCodes": [
+          {
+            "system": "IS_CARD",
+            "code": "208",
+            "message": ""
+          }
+        ],
+        "isNationalCashback": "NA",
+        "phoneNumber3ds": "+380972710327"
+      },
+      "cardId": "053e7f819beaf03de90705e6251a8c37",
+      "relatedProductId": "5722-1"
+    },
+    {
+      "cardOwner": {
+        "customerId": "4813663"
+      },
+      "productCode": "PI_CA02_421_995_UAH",
+      "cardIssuingContract": {
+        "iban": "UA323003350000002620311582934",
+        "currencies": ["UAH"]
+      },
+      "physicalCard": {
+        "design": {
+          "code": "Visa ATB Virtual",
+          "uri": "https://channels-web.apps.avalaunch.aval/assets/cards/VISA_ATB_Debit_New.png"
+        },
+        "embossingLines": {
+          "embossingLine1": "MARINE ZHAMAKOCHYAN"
+        },
+        "fulfillment": {
+          "status": "UNKNOWN",
+          "extendedStatus": "UNKNOWN"
+        }
+      },
+      "cardStatus": {
+        "status": "ACTIVE",
+        "statusReason": ""
+      },
+      "maskedPan": "414951******3878",
+      "creationDateTime": "2026-08-28T00:00:00.000000Z",
+      "lastModifiedDateTime": "2026-09-08T13:39:32.666625Z",
+      "expirationMonthYear": "07/35",
+      "expirationDateTime": "2035-07-31T20:59:59.000000Z",
+      "isPinSet": true,
+      "isInstantCard": true,
+      "customParameters": {
+        "cardProductToken": "938",
+        "cardSystem": "IS_CARD",
+        "cardInternalId": "142315712",
+        "userToken": "4813663",
+        "stateType": "online",
+        "extendedState": "",
+        "stopCodes": [
+          {
+            "system": "IS_CARD",
+            "code": ""
+          },
+          {
+            "system": "UPC",
+            "code": "0",
+            "codeType": "hotCode"
+          },
+          {
+            "system": "UPC",
+            "code": "0",
+            "codeType": "softCode"
+          }
+        ],
+        "isNationalCashback": "NO",
+        "phoneNumber3ds": "+380972710327"
+      },
+      "cardId": "239e0d5d717bbad164aef855d4b61bff",
+      "relatedProductId": "5722-1"
+    },
+    {
+      "cardOwner": {
+        "customerId": "4813663"
+      },
+      "productCode": "PI_CA02_421_995_UAH",
+      "cardIssuingContract": {
+        "iban": "UA323003350000002620311582934",
+        "currencies": ["UAH"]
+      },
+      "physicalCard": {
+        "design": {
+          "code": "Visa ATB Instant",
+          "uri": "https://channels-web.apps.avalaunch.aval/assets/cards/VISA_ATB_Debit_New.png"
+        },
+        "embossingLines": {
+          "embossingLine1": "ANONYMOUS"
+        },
+        "fulfillment": {
+          "status": "DELIVERED",
+          "extendedStatus": "BRANCH2CLIENT"
+        }
+      },
+      "cardStatus": {
+        "status": "SUSPENDED",
+        "statusReason": ""
+      },
+      "maskedPan": "414951******7786",
+      "creationDateTime": "2026-08-20T00:00:00.000000Z",
+      "lastModifiedDateTime": "2026-09-08T13:39:32.707094Z",
+      "expirationMonthYear": "08/31",
+      "expirationDateTime": "2031-08-31T20:59:59.000000Z",
+      "isPinSet": true,
+      "isInstantCard": true,
+      "customParameters": {
+        "cardProductToken": "930",
+        "cardSystem": "IS_CARD",
+        "cardInternalId": "142881663",
+        "userToken": "4813663",
+        "stateType": "online",
+        "extendedState": "",
+        "blockedBy": "BANK",
+        "stopCodes": [
+          {
+            "system": "IS_CARD",
+            "code": ""
+          },
+          {
+            "system": "UPC",
+            "code": "804",
+            "codeType": "hotCode",
+            "message": "Incorrect PINs limit exceeded"
+          },
+          {
+            "system": "UPC",
+            "code": "0",
+            "codeType": "softCode"
+          }
+        ],
+        "isNationalCashback": "NO",
+        "phoneNumber3ds": "+380972710327"
+      },
+      "cardId": "7d5f1b464c350e244e4d0aa9ec06fd41",
+      "relatedProductId": "5722-1"
+    }
+  ],
+  "metadata": {
+    "size": 4
+  }
+}
