@@ -1,140 +1,140 @@
 {
-    "clients": [
-        {
-            "customerId": "78675",
-            "party": {
-                "name": {
-                    "firstName": "ЕМАНУІЛ",
-                    "lastName": "ЛАТЕНКО",
-                    "middleName": "БАБІРОВИЧ"
-                },
-                "nameInLatin": {
-                    "firstName": "EMANUIL",
-                    "lastName": "LATENKO",
-                    "middleName": "BABIROVYCH"
-                },
-                "birth": {
-                    "date": "1945-01-20"
-                },
-                "communicationChannels": [
-                    {
-                        "id": "531692",
-                        "phone": "0197626661",
-                        "activeNotificationChannel": "CALL",
-                        "type": "DOMESTIC_PHONE",
-                        "purpose": "OTHER_BUSINESS",
-                        "status": "VALID"
-                    },
-                    {
-                        "id": "27214032",
-                        "phone": "0146178215",
-                        "activeNotificationChannel": "CALL",
-                        "type": "MOBILE_PHONE",
-                        "purpose": "MOBILE_BANKING",
-                        "status": "VERIFIED"
-                    }
-                ]
-            },
+  "clients": [
+    {
+      "customerId": "78675",
+      "party": {
+        "name": {
+          "firstName": "ЕМАНУІЛ",
+          "lastName": "ЛАТЕНКО",
+          "middleName": "БАБІРОВИЧ"
+        },
+        "nameInLatin": {
+          "firstName": "EMANUIL",
+          "lastName": "LATENKO",
+          "middleName": "BABIROVYCH"
+        },
+        "birth": {
+          "date": "1945-01-20"
+        },
+        "communicationChannels": [
+          {
+            "id": "531692",
+            "phone": "0197626661",
+            "activeNotificationChannel": "CALL",
+            "type": "DOMESTIC_PHONE",
+            "purpose": "OTHER_BUSINESS",
+            "status": "VALID"
+          },
+          {
+            "id": "27214032",
             "phone": "0146178215",
-            "taxId": "0002534987",
-            "phoneVerify": true,
-            "verifyCode": "NOT_VERIF",
-            "verifyDate": "2016-11-30",
-            "status": "YELLOW",
-            "active": true,
-            "partyType": "PI",
-            "segmentId": "F",
-            "country": "804",
-            "nextDateIndent": "2030-05-04",
-            "serviceType": "STANDART_BRANCH",
-            "publicPerson": "PI_00",
-            "documents": [
-                {
-                    "serialNumber": "ЙЗ",
-                    "id": "448131",
-                    "type": "00",
-                    "issuingAuthority": "ВАСИЛЬКІВСЬКИМ МВ ГУ МВС УКРАЇНИ В КИЇВСЬКІЙ ОБЛ",
-                    "mainType": "false"
-                }
-            ],
-            "addresses": [
-                {
-                    "addressType": "REG",
-                    "country": "804",
-                    "region": "КИЇВСЬКА ОБЛАСТЬ",
-                    "city": "Кованчик",
-                    "cityType": "СМТ"
-                },
-                {
-                    "addressType": "LIVE",
-                    "country": "804",
-                    "region": "КИЇВСЬКА ОБЛАСТЬ",
-                    "city": "МІЗОЧОК",
-                    "cityType": "С."
-                }
-            ],
-            "links": [
-                {
-                    "customerId": "03789255",
-                    "partyType": "PI",
-                    "system": "TM"
-                },
-                {
-                    "customerId": "1617200996",
-                    "partyType": "PI",
-                    "system": "SB"
-                },
-                {
-                    "customerId": "21526529",
-                    "partyType": "PI",
-                    "system": "ORION"
-                },
-                {
-                    "customerId": "100084607",
-                    "system": "G-REC"
-                },
-                {
-                    "customerId": "0b0011ee904a918b",
-                    "partyType": "PI",
-                    "system": "DMS"
-                },
-                {
-                    "customerId": "3328027",
-                    "partyType": "PI",
-                    "system": "IB"
-                },
-                {
-                    "customerId": "35685773",
-                    "partyType": "PI",
-                    "system": "VIC"
-                },
-                {
-                    "customerId": "281018",
-                    "partyType": "PI",
-                    "system": "R_INFO"
-                },
-                {
-                    "customerId": "ebf4da5c-3c8e-4163-b3c9-7b1ad4387797",
-                    "partyType": "PI",
-                    "system": "aCRM"
-                },
-                {
-                    "customerId": "92e65246-02fb-4556-852f-e5d239f10571",
-                    "partyType": "PI",
-                    "system": "IQPI"
-                },
-                {
-                    "customerId": "3777159",
-                    "partyType": "PI",
-                    "system": "BM"
-                },
-                {
-                    "customerId": "765306",
-                    "partyType": "PI",
-                    "system": "IS-CARD"
-                }
-            ],
-            "managers": []
+            "activeNotificationChannel": "CALL",
+            "type": "MOBILE_PHONE",
+            "purpose": "MOBILE_BANKING",
+            "status": "VERIFIED"
+          }
+        ]
+      },
+      "phone": "0146178215",
+      "taxId": "0002534987",
+      "phoneVerify": true,
+      "verifyCode": "NOT_VERIF",
+      "verifyDate": "2016-11-30",
+      "status": "YELLOW",
+      "active": true,
+      "partyType": "PI",
+      "segmentId": "F",
+      "country": "804",
+      "nextDateIndent": "2030-05-04",
+      "serviceType": "STANDART_BRANCH",
+      "publicPerson": "PI_00",
+      "documents": [
+        {
+          "serialNumber": "ЙЗ",
+          "id": "448131",
+          "type": "00",
+          "issuingAuthority": "ВАСИЛЬКІВСЬКИМ МВ ГУ МВС УКРАЇНИ В КИЇВСЬКІЙ ОБЛ",
+          "mainType": "false"
         }
-    ]
+      ],
+      "addresses": [
+        {
+          "addressType": "REG",
+          "country": "804",
+          "region": "КИЇВСЬКА ОБЛАСТЬ",
+          "city": "Кованчик",
+          "cityType": "СМТ"
+        },
+        {
+          "addressType": "LIVE",
+          "country": "804",
+          "region": "КИЇВСЬКА ОБЛАСТЬ",
+          "city": "МІЗОЧОК",
+          "cityType": "С."
+        }
+      ],
+      "links": [
+        {
+          "customerId": "03789255",
+          "partyType": "PI",
+          "system": "MYRF"
+        },
+        {
+          "customerId": "1617200996",
+          "partyType": "PI",
+          "system": "SB"
+        },
+        {
+          "customerId": "21526529",
+          "partyType": "PI",
+          "system": "ORION"
+        },
+        {
+          "customerId": "100084607",
+          "system": "G-REC"
+        },
+        {
+          "customerId": "0b0011ee904a918b",
+          "partyType": "PI",
+          "system": "DMS"
+        },
+        {
+          "customerId": "3328027",
+          "partyType": "PI",
+          "system": "IB"
+        },
+        {
+          "customerId": "35685773",
+          "partyType": "PI",
+          "system": "VIC"
+        },
+        {
+          "customerId": "281018",
+          "partyType": "PI",
+          "system": "R_INFO"
+        },
+        {
+          "customerId": "ebf4da5c-3c8e-4163-b3c9-7b1ad4387797",
+          "partyType": "PI",
+          "system": "aCRM"
+        },
+        {
+          "customerId": "92e65246-02fb-4556-852f-e5d239f10571",
+          "partyType": "PI",
+          "system": "IQPI"
+        },
+        {
+          "customerId": "3777159",
+          "partyType": "PI",
+          "system": "BM"
+        },
+        {
+          "customerId": "765306",
+          "partyType": "PI",
+          "system": "IS-CARD"
+        }
+      ],
+      "managers": []
+    }
+  ]
 }
