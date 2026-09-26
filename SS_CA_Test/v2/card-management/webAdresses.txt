@@ -1,6 +1,13 @@
+old:
 https://vvspl.github.io/SS_CA_Test/SS_CA_Test/v2/card-management/cards.json
 https://vvspl.github.io/SS_CA_Test/SS_CA_Test/v2/card-management/clients_PI.json
 
 https://vvspl.github.io/SS_CA_Test/SS_CA_Test/v2/card-management/LEfromPROD.json
 
-https://vvspl.github.io/SS_CA_Test/SS_CA_Test/kyc.json
+new:
+https://vvspl.github.io/test/SS_CA_Test/v2/card-management/cards.json
+https://vvspl.github.io/test/SS_CA_Test/v2/card-management/clients_PI.json
+
+https://vvspl.github.io/test/SS_CA_Test/v2/card-management/LEfromPROD.json
+
+https://vvspl.github.io/test/kyc.json
