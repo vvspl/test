@@ -1,0 +1,118 @@
+{
+  "cards": [
+    {
+      "cardOwner": {
+        "customerId": "13452688"
+      },
+      "productCode": "PI_CA02_421_336_UAH",
+      "cardIssuingContract": {
+        "iban": "UA473003350000002620410877393",
+        "currencies": ["UAH"]
+      },
+      "physicalCard": {
+        "design": {
+          "code": "Visa ATB Instant",
+          "uri": "https://channels-web.apps.avalaunch.aval/assets/cards/VISA_ATB_Debit_New.png"
+        },
+        "embossingLines": {
+          "embossingLine1": "ANONYMOUS"
+        },
+        "fulfillment": {
+          "status": "DELIVERED",
+          "extendedStatus": "DELIVERED"
+        }
+      },
+      "cardStatus": {
+        "status": "ACTIVE"
+      },
+      "maskedPan": "414951******6881",
+      "creationDateTime": "2024-03-13T00:00:00.000000Z",
+      "lastModifiedDateTime": "2026-09-28T14:52:59.894211Z",
+      "expirationMonthYear": "01/29",
+      "expirationDateTime": "2029-01-31T21:59:59.000000Z",
+      "isPinSet": true,
+      "isInstantCard": true,
+      "customParameters": {
+        "cardProductToken": "336",
+        "cardSystem": "IS_CARD",
+        "cardInternalId": "11480346",
+        "userToken": "13452688",
+        "stateType": "online",
+        "stopCodes": [
+          {
+            "system": "IS_CARD"
+          },
+          {
+            "system": "UPC",
+            "code": "0",
+            "codeType": "hotCode"
+          },
+          {
+            "system": "UPC",
+            "code": "0",
+            "codeType": "softCode"
+          }
+        ],
+        "isNationalCashback": "NO"
+      },
+      "cardId": "f2cd9a464ebf46f8e444af17cd1107f9",
+      "relatedProductId": "5722-1"
+    },
+    {
+      "cardOwner": {
+        "customerId": "13452689"
+      },
+      "productCode": "PI_CA02_421_337_UAH",
+      "cardIssuingContract": {
+        "iban": "UA473003350000002620410877394",
+        "currencies": ["UAH"]
+      },
+      "physicalCard": {
+        "design": {
+          "code": "Visa ATB Instant",
+          "uri": "https://channels-web.apps.avalaunch.aval/assets/cards/VISA_ATB_Debit_New.png"
+        },
+        "embossingLines": {
+          "embossingLine1": "ANONYMOUS"
+        },
+        "fulfillment": {
+          "status": "DELIVERED",
+          "extendedStatus": "DELIVERED"
+        }
+      },
+      "cardStatus": {
+        "status": "ACTIVE"
+      },
+      "maskedPan": "414951******6882",
+      "creationDateTime": "2024-03-13T00:00:00.000000Z",
+      "lastModifiedDateTime": "2026-09-28T14:52:59.894211Z",
+      "expirationMonthYear": "01/29",
+      "expirationDateTime": "2029-01-31T21:59:59.000000Z",
+      "isPinSet": true,
+      "isInstantCard": true,
+      "customParameters": {
+        "cardProductToken": "336",
+        "cardSystem": "IS_CARD",
+        "cardInternalId": "11480347",
+        "userToken": "13452689",
+        "stateType": "online",
+        "stopCodes": [
+          {
+            "system": "IS_CARD"
+          },
+          {
+            "system": "IS_CARD"
+          },
+          {
+            "system": "UPC",
+            "code": "0",
+            "codeType": "softCode"
+          }
+        ],
+        "isNationalCashback": "NO"
+      },
+      "cardId": "f2cd9a464ebf46f8e444af17cd1107f9",
+      "relatedProductId": "5722-1"
+    }
+  ]
+}
